@@ -1,4 +1,4 @@
-# RIGID3D-RC
+# RIGID3D ANKA 3d Printed 1/10 RC Short Course Truck
 
 Anka is a mostly 3d printed 1/10 RC Short Course Truck which is inspired and remixed from the excellent Tarmo4 project. (You may reach the Tarmo4 project's details from here.)
 If you are a terrible driver like me, this hobby might become a bit expensive. Especially bashers may encounter lots of crashes and breakage which discourages the hobbyist. I wanted to design a basher which is mostly 3d printed so that I can drive it without worrying about crashes and breaks. I enjoy bashing more since I don't have to pay for the spares and wait for them to arrive.
