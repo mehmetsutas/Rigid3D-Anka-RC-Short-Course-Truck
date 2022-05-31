@@ -1,4 +1,5 @@
 # RIGID3D ANKA 3d Printed 1/10 RC Short Course Truck
+![enter image description here](https://github.com/mehmetsutas/Rigid3D-Anka-RC-Short-Course-Truck/raw/main/Rigid3D-RC-Short-Course-Truck.png)
 
 Anka is a mostly 3d printed 1/10 RC Short Course Truck which is inspired and remixed from the excellent Tarmo4 project. (You may reach the Tarmo4 project's details from [here](https://www.reddit.com/r/EngineeringNS/).)
 
@@ -30,3 +31,4 @@ This work is licensed under a
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
