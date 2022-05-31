@@ -21,6 +21,8 @@ The steering system is designed according to Ackermann geometry.
 
 You may reach the parametric design files from [github repository](https://github.com/mehmetsutas/Rigid3D-Anka-RC-Short-Course-Truck).
 
+[Here is a test run of Anka.](https://youtu.be/6hFY0XV2smo)
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
