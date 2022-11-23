@@ -11,13 +11,15 @@ In this model you can even print the shock absorbers and tires with TPU filament
 
 Most of the parts may be printed with PLA and should work well with 2600KV motor and 2S LIPO battery. The material tested and recommended are shown in the file notes.
 
-It can be printed on small printers. Each part can be fit in a 15x15x15cm (6"x6"x6") build volume.
+It can be printed on small printers. Most of the parts can be fit in a 15x15x15cm (6"x6"x6") build volume. Only the bumpers require at least 20x20cm (8”x8”) print bed.
 
 The truck is designed in the Short Course Truck (SCT) class. It meets the width and wheelbase dimension specifications of ROAR 1/10 Short Course Truck class.
 
 The steering system is designed according to Ackermann geometry.
 
 3d printed open differentials are used on both front and rear differentials.
+
+Traxxas Slash or Remo Hobby short course truck body would fit on it perfectly. Body can be fixed to the chassis by glueing strong magnets.
 
 You may reach the parametric design files from [github repository](https://github.com/mehmetsutas/Rigid3D-Anka-RC-Short-Course-Truck).
 
